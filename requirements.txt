@@ -3,3 +3,6 @@ pytest
 black
 streamlit
 torch==2.3.0 --index-url https://download.pytorch.org/whl/cu121
+re
+pillow 
+transformers
